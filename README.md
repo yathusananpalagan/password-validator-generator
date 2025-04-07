@@ -36,7 +36,26 @@
 Before you begin, make sure you have the following installed on your system:
 - **Python 3.x** (You can download it from [python.org](https://www.python.org/downloads/))
 - **Git** (To clone the repository)
+  
+### Steps to Install:
 
+1. **Clone the Repository**  
+   First, clone the repository using Git. Open your terminal or command prompt and run the following command:
+   
+   ```bash
+   git clone https://github.com/yathusananpalagan/password-validator-generator.git
+   ```
+2. **Navigate to the Project Folder**
+   Once the repository is cloned, navigate to the project directory:
+
+   ```bash
+   cd password-validator-generator
+   ```
+3. **Install Dependencies**
+   The project requires some Python libraries to work. You can install all the dependencies listed in the [`requirements.txt`](./requirements.txt) file using pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
 
