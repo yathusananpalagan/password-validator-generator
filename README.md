@@ -21,13 +21,15 @@
 
 [![Technologies](https://skillicons.dev/icons?i=git,github,vscode,py,md,windows)](https://skillicons.dev)
 
+## 📂 Project Structure
+Here are some important files in the project structure:
 
-
-
-
-
-
-
+- [**passwordpassword-validator-generator.py**](./password-validator-generator.py): The main Python script that handles both password generation and validation.
+- [**common_passwords.txt**](./common_passwords.txt): A text file that contains a list of common passwords, used for validating weak passwords.
+- [**README.md**](./README.md): This documentation file, which explains the project and how to use it.
+- [**password_history.csv**](./password_history.csv): A CSV file that logs the history of generated passwords and their validation results, including timestamps.
+- [**app_icon.ico**](./app_icon.ico): The icon file for the application (if you're using a GUI).
+- [**requirements.txt**](./requirements.txt): A text file containing a list of required Python libraries to run the project
 
 ## 🔧 Installation
 
