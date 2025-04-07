@@ -90,6 +90,16 @@ The history of generated passwords, along with their validation results and time
 ### 5. **Setting the Application Icon (Optional)**
 If you are using a GUI, you can set the app_icon.ico file as the icon for the application window. Simply load the icon in your GUI application code.
 
+## 🖼️ Screenshots
+### Validator Tab
+![ValidatorTab](./docs/ValidatorTab.png)
+
+### Gnerator Tab
+![GeneratorTab](./docs/GeneratorTab.png)
+
+### History Tab
+![HistoryTab](./docs/HistoryTab.png)
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
