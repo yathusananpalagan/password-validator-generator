@@ -126,6 +126,7 @@ Thank you for your support! 🙏
 ## 📚 Libraries Used
 
 This project utilizes the following Python libraries:
+
 - **secrets**: Provides a secure random number generator for cryptographic purposes, used for generating secure passwords.
 - **re**: Regular expressions library used for validating passwords against patterns (e.g., checking length, character variety).
 - **hashlib**: A module used for cryptographic hashing, useful for validating password strength by comparing hashed versions of the password.
