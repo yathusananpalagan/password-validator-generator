@@ -63,7 +63,7 @@ Before you begin, make sure you have the following installed on your system:
 
 ### 1. **Starting the Application**
 
-To begin using the password generator and validator, simply run the main Python script. You can do this by navigating to the project directory and running the following command in your terminal or command prompt:
+Navigate to the project directory (if not already there) and run the [`password-validator-generator.py`](./password-validator-generator.py) script:
 
 ```bash
 python password-validator-generator.py
