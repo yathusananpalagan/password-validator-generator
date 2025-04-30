@@ -49,15 +49,16 @@ Before you begin, make sure you have the following installed on your system:
    ```
 2. **Navigate to the Project Folder**
    Once the repository is cloned, navigate to the project directory:
-
+   
    ```bash
    cd password-validator-generator
    ```
-3. **Install Dependencies**
+4. **Install Dependencies**
    The project requires some Python libraries to work. You can install all the dependencies listed in the [`requirements.txt`](./requirements.txt) file using pip:
    ```bash
    pip install -r requirements.txt
    ```
+   
 ## ▶️ Usage
 
 ### 1. **Starting the Application**
